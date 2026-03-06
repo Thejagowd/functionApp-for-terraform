@@ -1,0 +1,5 @@
+resource_group_name  = "demo-rg"
+location             = "East US"
+storage_account_name = "demostorage12345"
+function_app_name    = "demo-function-app123"
+service_plan_name    = "demo-plan"
